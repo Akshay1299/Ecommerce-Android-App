@@ -7,8 +7,8 @@ for the this project. If you are interested feel free to Ping me.
 <hr>
 I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
 
-<h3><b>SANDESH POL.</b></h3>
-:email: sandeshpol123@gmail.com
+<h3><b>Akshay Lavate</b></h3>
+:email: lit2020074@iiitl.ac.in
 <hr>
 
 # Some results
